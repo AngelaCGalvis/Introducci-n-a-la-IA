@@ -13,4 +13,4 @@
   1000919392
   Ingenieria Industrial
 
-## Entrega 2
+## Entrega 2: https://youtu.be/UTHoMth_AZo
