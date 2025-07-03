@@ -1,4 +1,4 @@
-# Entrega 1
+# Entrega 3
 
 ## Integrantes del equipo
 - David Villegas Ceballos
@@ -13,4 +13,5 @@
   1000919392
   Ingenieria Industrial
 
-## Entrega 2: https://youtu.be/UTHoMth_AZo
+  ## Video de la entrega 2: https://youtu.be/UTHoMth_AZo?si=tzcC3Ny_FZBp4CFU
+  ## Video de la entrega 3:
